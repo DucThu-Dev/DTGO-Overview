@@ -2,17 +2,14 @@
 <div align="center">
 <img  src="Assets/dtgo_icon_w500.png" alt="DTGO Logo"  width="160"  height="80">
 
-<h3  align="center">DTGO Overview</h3>
-
 <p  align="center">
 Real-time booking vehicle service, includes server, passenger and driver mobile app.
-This repository show an overview about DTGO project - my Graduated project.
 </p>  
 </div>
 
 <p>
 
-## Release
+## Google Play Store Release
 
 - [DTGO](https://play.google.com/store/apps/details?id=com.ducthu.datn.client_dt_go) application for passengers.
 
