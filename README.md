@@ -2,12 +2,11 @@
 <div align="center">
 <img  src="Assets/dtgo_icon_w500.png" alt="DTGO Logo"  width="160"  height="80">
 <br />
+<br />
 <p  align="center">
 Real-time booking vehicle service, includes server, passenger and driver mobile app.
 </p>  
 </div>
-
-<p>
 
 ## Google Play Store Release
 
